@@ -15,6 +15,10 @@ Start Screen
 
 <img src="https://github.com/dnarine1585/Desert-Shooter/blob/master/startscreen.PNG" height="200px">
 
+Gameplay
+
+<img src="https://github.com/dnarine1585/Desert-Shooter/blob/master/Gameplay.PNG" height="200px">
+
 Win Screen
 
 <img src="https://github.com/dnarine1585/Desert-Shooter/blob/master/winscreen.PNG" height="200px">
