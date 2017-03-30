@@ -8,3 +8,5 @@
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">Pygame Wheel File</a>
 
 <p> Desert Shooter is a shooter game where you have to protect a lizard by killing its predator the Road Runner. This game requires you to make every shot count. If you miss even one shot you will lose. </p> 
+
+Sreenshots
